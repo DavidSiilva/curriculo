@@ -1,9 +1,7 @@
-/*
----------------------------------------Responsividade------------------------------------------
-*/
+
 
 @media (max-width: 900px) {
-    /* header */
+    
 
     body {
         background-size: cover;
@@ -106,7 +104,7 @@
         display: none;
     }
 
-    /* Sobre */
+
 
     .sobre > h2 {
         margin-bottom: 2%;
@@ -128,7 +126,7 @@
         width: 100%;
     }
 
-    /* tecnologias */
+  
 
     .tecnologias > article {
         padding: 5px;
@@ -158,13 +156,13 @@
         height: 400px;
     }
 
-    /* galeria */
+   
     .arrow-left,
     .arrow-right {
         display: none;
     }
 
-    /* projetos */
+ 
     .projetos {
         height: 100%;
     }
@@ -198,3 +196,5 @@
         margin: 15px 4.5px;
     }
 }
+
+
